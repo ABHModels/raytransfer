@@ -2,6 +2,8 @@
 
 A general relativistic ray-tracing code for calculating the transfer functions in Non-Kerr metrics. This code can be used for generating the FITS file to be used with RELXILL_NK and NKBB models.    
 
+Cite the code: [![DOI](https://zenodo.org/badge/596872782.svg)](https://zenodo.org/doi/10.5281/zenodo.12703491)    
+    
 When using RayTransfer please cite the following:    
 
 * _Public Release of RELXILL_NK: A Relativistic Reflection Model for Testing Einstein's Gravity_; A.B. Abdikamalov, D. Ayzenberg, C. Bambi, T. Dauser, J.A. Garcia, & S. Nampalliwar; [Astrophys.J. 878 no.2, 91 (2019)](https://doi.org/10.3847/1538-4357/ab1f89).    
